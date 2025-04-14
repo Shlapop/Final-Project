@@ -2,7 +2,7 @@ import telebot
 import random
 
 #Токен бота
-bot = telebot.TeleBot("846153179:AAGqEicFzbHgMlmohNfmbSm3rakKST5mL48")
+bot = telebot.TeleBot("ВАШ КОД")
 
 #Список фактов об экологии
 facts = [
